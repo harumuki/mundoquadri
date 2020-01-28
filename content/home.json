@@ -5,10 +5,13 @@
     "autoplay": 9000,
     "slides": [
       {
-        "img": "/img/uploads/rect89.png"
+        "img": "/img/uploads/banner_fourtrax_pneus.jpg"
       },
       {
-        "img": "/img/uploads/banner2.png"
+        "img": "/img/uploads/muv.png"
+      },
+      {
+        "img": "/img/uploads/barras-led-full.png"
       }
     ]
   },
