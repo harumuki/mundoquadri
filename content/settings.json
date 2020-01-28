@@ -1,22 +1,21 @@
 {
-  "store_id": 1060,
-  "name": "My Shop",
-  "domain": "storefront-demo.e-com.plus",
-  "short_name": "MyShop",
-  "description": "My PWA Shop",
-  "primary_color": "#383d44",
-  "secondary_color": "#7F7F7F",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#ffc600",
   "theme": {
     "bootswatch": "_"
   },
+  "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "My Shop",
+  "short_name": "MyShop",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.jpg",
+  "country_code": "BR",
+  "secondary_color": "#454344",
+  "icon": "/img/icon.png",
+  "store_id": 1060,
+  "description": "My PWA Shop",
+  "large_icon": "/img/large-icon.png"
 }
