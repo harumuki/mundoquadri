@@ -6,8 +6,8 @@
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
-  "name": "My Shop",
-  "short_name": "MyShop",
+  "name": "Mundo Quadri - Pneu para honda fourtrax, pneu para quadriciclo e utvs",
+  "short_name": "Mundo Quadri",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -16,6 +16,6 @@
   "secondary_color": "#454344",
   "icon": "/img/icon.png",
   "store_id": 1060,
-  "description": "My PWA Shop",
+  "description": "Na Mundo Quadri você encontra uma grande variedade de pneus para quadriciclos e UTV´s das marcas Arisun e Carlisle para Honda Fourtrax, Polaris e Canam.",
   "large_icon": "/img/large-icon.png"
 }
