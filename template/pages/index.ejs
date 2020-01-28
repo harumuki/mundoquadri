@@ -23,7 +23,8 @@ const sfTemplatePath = '../../node_modules/@ecomplus/storefront-template/templat
       <%- await include('@custom-html/append-top', { _ }) %>
       <%- await include('@custom-html/home/append-top', { _ }) %>
 
-      <%
+<%- await include(`
+<%
 // load home and general info content
 const home = _.cms('home')
 const info = _.cms('info')
@@ -71,6 +72,8 @@ const showcase = Array.isArray(home.showcase)
     <% } %>
   </section>
 </div>
+
+`, { _ }) %>
 
       <%- await include('@custom-html/append-bottom', { _ }) %>
       <%- await include('@custom-html/home/append-bottom', { _ }) %>
