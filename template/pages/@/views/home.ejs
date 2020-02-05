@@ -1,0 +1,95 @@
+
+
+<%
+// load home and general info content
+const home = _.cms('home')
+const info = _.cms('info')
+const sfTemplatePath = '../../../../node_modules/@ecomplus/storefront-template/template/pages/'
+// fix array for home showcase
+const showcase = Array.isArray(home.showcase)
+  ? home.showcase.filter(({ collection }) => collection) : []
+%>
+
+<%- await include(`${sfTemplatePath}@/views/components/banner-slider`, { _, opt: home.slider }) %>
+
+<% if (home.pitbar) { %>
+  <%- await include(`${sfTemplatePath}@/views/components/pitbar`, { _ }) %>
+<% } else { %>
+  <script type="html/text" data-cms-html>
+    <%- await include(`${sfTemplatePath}@/views/components/pitbar`, { _ }) %>
+  </script>
+<% } %>
+
+
+<div class="home container py-1 py-sm-2 py-lg-4">
+
+  <div class="row">
+        <div class="col-md-4 col-sm-4">
+          <div class="banner_prs">
+            <a href="https://www.mundoquadri.com.br/guincho-eletrico/">
+              <img class="jQLazy" src="https://cdn.ecvol.com/s/www.mundoquadri.com.br/uploads/guinchos.jpg" data-original="https://cdn.ecvol.com/s/www.mundoquadri.com.br/uploads/guinchos.jpg" alt="Guinchos Elétricos" title="Guinchos Elétricos" style="display: inline;">
+            </a>
+          </div></div>
+        <div class="col-md-4 col-sm-4">
+          <div class="banner_prs">
+            <a href="https://www.mundoquadri.com.br/galao/">
+              <img class="jQLazy" src="https://cdn.ecvol.com/s/www.mundoquadri.com.br/uploads/galao.jpg" data-original="https://cdn.ecvol.com/s/www.mundoquadri.com.br/uploads/galao.jpg" alt="Galão de Gasolina" title="Galão de Gasolina" style="display: inline;">
+            </a>
+          </div></div>
+        <div class="col-md-4 col-sm-4">
+          <div class="banner_prs">
+            <a href="https://www.mundoquadri.com.br/barra-de-led/">
+              <img class="jQLazy" src="https://cdn.ecvol.com/s/www.mundoquadri.com.br/uploads/barra-led.jpg" data-original="https://cdn.ecvol.com/s/www.mundoquadri.com.br/uploads/barra-led.jpg" alt="Barra de Led" title="Barra de Led" style="display: inline;">
+            </a>
+          </div></div>
+      </div>
+  <% if (showcase.length) { %>
+    <%
+    for (let i = 0; i < showcase.length; i++) {
+      const shelf = showcase[i]
+      // get collection body
+      const res = await _.ecomClient.store({ url: `/collections/${shelf.collection}.json` })
+      const collection = res.data
+      let items = []
+      if (Array.isArray(collection.products) && collection.products.length) {
+        // search collection items by IDs
+        const search = new _.EcomSearch()
+        await search.setProductIds(collection.products).fetch()
+        items = search.getItems()
+      }
+      const { title, link } = shelf
+      %>
+      <%- await include(`${sfTemplatePath}@/views/components/products-carousel`, { _, opt: { items, collection, title, link } }) %>
+      <%
+    }
+    %>
+  <% } else { %>
+    <%- await include(`${sfTemplatePath}@/views/components/products-carousel`, { _, opt: { items: _.items } }) %>
+  <% } %>
+
+  <section class="md-content" data-cms-bind="home.additional_content" data-cms-md="true">
+    <% if (home.additional_content) { %>
+      <%- _.md.render(home.additional_content) %>
+    <% } %>
+  </section>
+</div>
+
+
+  <div id="home-info" class="col-md-12 col-sm-12">
+
+  <div class="col-md-2 col-sm-12 logofooter">
+    <img src="//cdn.ecvol.com/s/www.mundoquadri.com.br/uploads/quadri-logo-footer.png">
+  </div>
+
+  <div class="col-md-10 col-sm-12">
+    <h3 class="footer-title">Conheça a Mundo Quadri</h3>
+
+<p class="texto-mundo">A MUNDO QUADRI está situada em Curitiba, estado do Paraná e atua no ramo de importação e comércio desde 2007 e tem como razão social STOREBOX IMPORTAÇÃO E COMÉRCIO LTDA.<br><br>Nossa linha de produtos compreende pneus para quadriciclos atv´s e utv´s das marcas Arisun, Carlisle e Sedona, além de rodas Race Line, Óculos de proteção Gaia MX e Scooters e Quadricicos da marca MXF.<br><br>Possuímos um departamento de atacado que pode ser contatado através do email atacado@mundoquadri.com.br, para solicitações de preços e produtos especiais sob-encomenda.
+    </p><p>
+  </p></div>
+<!--
+  <div class="col-md-12 col-sm-12 line-box"></div>
+
+<div class="col-md-12 col-sm-12 chamada-news">Assine a nossa newsletter para receber as melhores novidades e promoções</div> -->
+
+</div>
