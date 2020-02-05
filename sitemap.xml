@@ -170,6 +170,276 @@
     </url>
   
     <url>
+      <loc>https://undefined/pneu-26x10-14</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-28x12-14</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-30x10-14</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-32x10-15</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-29x10-15</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-27x10-14</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-27x12-14</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-28x10-14</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-18x10-8</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-20x11-10</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/conjunto-chuva</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/terminal-de-direcao</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/capas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/barra-de-led</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-30x10-15</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/guincho-eletrico</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/bateria</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-28x12-12</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/patinete</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/oleo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-18x95-8</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-28x10-12</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-aro-7</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-16x8-7</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-32x10-14</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/espacador</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/rodas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-23x7-10</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-22x11-10</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-25x10-11</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/mini-quadriciclo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/mini-moto</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/quadriciclo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/galao</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/mascara-poeira</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-26x8-12</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-18x7-8</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-honda-fourtrax</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-aro-6</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-27x12-12</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-22x7-10</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-29x9-14</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-29x11-14</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/coolers</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-22x11-8</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://undefined/carlisle</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -272,6 +542,1356 @@
     </url>
   
     <url>
+      <loc>https://undefined/pneu-arisun-aftershock-28x10r14-radial-8-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-aftershock-32x10r14-radial-8-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-at12-24x10-11-6-lonas-honda-fourtrax</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-at12-24x8-12-6-lonas-honda-fourtrax</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-at12-25x10-12-6-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-at12-25x11-10-6-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-at12-25x8-12-6-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-at12-26x10-12-6-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-at12-26x9-12-6-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-at12-27x10-14-6-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-at12-27x12-14-6-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-at35-27x11r14-6-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-at35-27x9r14-6-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-bruiser-xt-25x10r12-radial-8-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-bruiser-xt-25x8r12-radial-8-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-bruiser-xt-26x10r12-radial-8-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-bruiser-xt-26x9r12-radial-8-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-bruiser-xt-28x10r14-radial-8-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-bruiser-xt-30x10r14-radial-8-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-gear-buster-26x10r14-radial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-gear-buster-28x10r14-radial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-gear-buster-30x10r14-radial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-xc-plus-cross-country-20x11-9</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-xc-plus-cross-country-21x7-10</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-carlisle-trail-pro-25x10-12</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-carlisle-trail-pro-25x8-12</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-carlisle-versa-trail-26x11r12-radial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-carlisle-versa-trail-26x9r12-radial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-carlisle-versa-trail-27x11r12-radial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-carlisle-versa-trail-27x11r14-radial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-carlisle-versa-trail-27x9r12-radial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-carlisle-versa-trail-27x9r14-radial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-carlisle-versa-trail-28x12r14-radial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-carlisle-versa-trail-29x10r15-radial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-pneus-arisun-at12-6-lonas-honda-fourtrax-420</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-pneus-arisun-at12-6-lonas-honda-fourtrax-350</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-pneus-carlisle-trail-pro-25x8-12-e-25x10-12</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-aftershock-30x10r14-radial-8-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/scooter-eletrico-mxf-muv-1000w-48v-2019</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/oculos-gaia-mx-backlight-com-lente-anti-embacante</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/oculos-gaia-mx-carbon-master-com-lente-anti-embacante</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/oculos-gaia-mx-lizard-fluor-com-lente-anti-embacante</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/oculos-gaia-mx-special-macaw-com-lente-anti-embacante</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/oculos-gaia-mx-orange-fire-com-lente-anti-embacante</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/oculos-gaia-mx-radical-blue-com-lente-anti-embacante</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/oculos-gaia-mx-radical-purple-com-lente-anti-embacante</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/oculos-gaia-mx-special-red-com-lente-anti-embacante</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/oculos-gaia-mx-yellow-fluor-com-lente-anti-embacante</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/teste</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-pneus-arisun-at12-25x8-12-e-25x10-12</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-pneus-arisun-at12-26x9-12-e-26x10-12</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-pneus-arisun-at35-27x9r14-e-27x11r14</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-pneus-carlisle-versa-trail-26x9r12-e-26x11r12-radial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-pneus-carlisle-versa-trail-27x9r12-e-27x11r12-radial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/oculos-gaia-mx-lizard-com-lente-anti-embacante</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-at16-18x10-8-4-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-at16-20x11-9-4-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-sedona-bazooka-20x11-10-4-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-at35-25x8r12-6-lonas-radial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-at35-25x10r12-6-lonas-radial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-pneus-arisun-bruiser-xt-26x9r12-26x10r12-radial-8-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/capa-para-quadriciclo-impermeavel-cor-cinza-com-logo-mundo-quadri</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/capa-para-quadriciclo-em-nylon-grafite-com-logo-mundo-quadri</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/clip-presilha-para-carenagem-de-polaris-e-honda-fourtrax-8-mm</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/regulador-retificador-de-voltagem-sportsman-570</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/bateria-motobatt-mtbx14au-polaris-sportsman</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/bateria-motobatt-mtbx20u-hd</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/bateria-motobatt-mbtx12u-honda-fourtrax</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-aftershock-30x10r15-radial-8-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-quadriciclo-bonna-v1568-18x950-8-4-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-quadriciclo-bonna-v1568-19x7-8-4-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/terminal-de-direcao-polaris-sportsman-570</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/conjunto-de-pvc-pioneira-2550-com-capuz</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/conjunto-de-nylon-pioneira-1401-fashion</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-quadriciclo-arisun-swamp-thing-ar49-30x10r14</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/barra-de-led-off-road-aurora-reta-40-102cm-400w-led-cree-combo-ip68-ip69k</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/barra-de-led-off-road-aurora-reta-30-76cm-300w-led-cree-combo-ip68-ip69k</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/barra-de-led-off-road-aurora-reta-20-51cm-200w-led-cree-combo-ip68-ip69k</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/barra-de-led-off-road-aurora-reta-10quot-26cm-100w-led-cree-combo-ip68-ip69k</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/cubo-led-aurora-2-6cm-40w-led-cree-spot-ip68-ip69k</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-at38-25x8r12-6-lonas-radial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-pneus-quadriciclo-at35-25x8r12-e-25x10r12-6-lonas-radial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/conjunto-de-nylon-restart-pioneira-masculino</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/conjunto-de-nylon-impermeavel-forrado</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/terminal-de-direcao-honda-fourtrax-420</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-pneus-arisun-bruiser-xt-25x8r12-e-25x10r12-radial-8-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/guincho-eletrico-runva-ewt3500a-12v-1587kg-com-cabo-sintetico-e-acessorios</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/guincho-eletrico-runva-ewt4500a-12v-2041kg-com-cabo-sintetico-e-acessorios</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/guincho-eletrico-runva-ewx3000a-12v-1360kg-com-cabo-de-aco</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/patesca-moitao-capacidade-2ton</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/patesca-moitao-capacidade-15000lb-6803kg</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/alargador-espacador-de-roda-para-quadriciclo-e-utv-canam-4x137-38-mm-jogo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/alargador-espacador-de-roda-para-quadriciclo-e-utv-canam-4x137-50-mm-jogo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/roda-honda-fourtrax-aro-12-traseira-12x7-itp-delta-preta</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-pneus-carlisle-versa-trail-27x9r14-e-27x11r14-radial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/alargador-espacador-de-roda-canam-maverick-x3-4x137-50-mm-jogo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/alargador-espacador-de-roda-honda-fourtrax-50-mm-jogo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/alargador-espacador-de-roda-honda-fourtrax-38-mm-jogo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-xc-plus-cross-country-23x7-10</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-quadriciclo-arisun-xc-plus-cross-country-22x11-10</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-pneus-quadriciclo-arisun-xc-plus-cross-country-23x7-10-e-22x11-10</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-pneus-quadriciclo-arisun-xc-plus-cross-country-21x7-10-e-20x11-9</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/quadriciclo-cfmoto-cforce-450l-2-pessoas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/quadriciclo-cfmoto-cforce-limited-800l-2-pessoas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/mini-quadriciclo-ligeirinho-49cc-fun-motors</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/mini-quadriciclo-avalanche-90-fun-motors</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/mini-moto-cross-laminha-49-fun-motors-diversao-motorizada</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/galao-plastico-380-litros-combustivel-jerry-can</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/galao-plastico-760-litros-combustivel-jerry-can</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/galao-plastico-10-litros-combustivel-jerry-can</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/galao-plastico-20-litros-combustivel-jerry-can</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/galao-plastico-30-litros-combustivel-jerry-can</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/suporte-para-galao-jerry-can-simples</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/mascara-naroo-f5</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/mascara-naroo-x5</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/mascara-naroo-x5s</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/quadriciclo-alfa-125cc-fun-motors</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/mini-quadriciclo-thor-49cc-partida-eletrica</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/suporte-para-galao-jerry-can-duplo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-at35-26x9r12-6-lonas-radial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-at35-26x11r12-6-lonas-radial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-at36-26x8r12-6-lonas-radial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-at36-26x10r12-6-lonas-radial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-pneus-arisun-at36-26x8r12-26x10r12-6-lonas-radial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-pneus-quadriciclo-arisun-at35-26x9r12-mais-26x11r12-6-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/par-de-cubos-de-led-aurora-2quot-6cm-40w-led-cree-spot-ip68-ip69k</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-carlisle-versa-trail-28x10r14-radial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-pneus-carlisle-versa-trail-28x10r14-e-28x12r14-radial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/alargador-espacador-de-roda-canam-maverick-x3-4x137-38-mm-par</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-kenda-k299-bear-claw-honda-fourtrax-dianteiro-24x8-12-6-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-kenda-k299-bear-claw-honda-fourtrax-traseiro-24x10-11-6-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-pneus-kenda-k299-bear-claw-honda-fourtrax-420-6-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-rodas-raceline-mamba-beadlock-14x8-4x137-furacao-canam</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-rodas-raceline-mamba-blackout-beadlock-14x8-4x156-furacao-polaris</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-rodas-raceline-twist-black-14x7-4x156-furacao-polaris</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-rodas-sedona-riot-furacao-4x137-canam</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/suporte-de-guincho-para-quadriciclo-polaris</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/suporte-de-guincho-para-honda-fourtrax-ano-2014-a-2017</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/suporte-de-guincho-para-honda-fourtrax-ano-2007-a-2013</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/galao-plastico-380-litros-combustivel-jerry-can-com-suporte</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/galao-plastico-760-litros-combustivel-jerry-can-com-suporte</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/galao-plastico-10-litros-combustivel-jerry-can-com-suporte</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-at36-25x8r12-6-lonas-radial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-at36-25x10r12-6-lonas-radial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-pneus-arisun-at36-25x8r12-25x10r12-6-lonas-radial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/guincho-eletrico-ekron-9500-xs-off-road-troller-wrangler-jeep</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/guincho-eletrico-ekron-12500-hs-off-road-troller-wrangler-jeep</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-aftershock-30x10r14-radial-8-lonas-race</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-pneus-arisun-at12-27x10-14-e-27x12-14-6-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-quadriciclo-arisun-swamp-thing-ar49-32x10-14</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-quadriciclo-arisun-swamp-thing-ar49-28x10-14</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-kenda-k585-bounty-hunter-27x9r12-radial-8-lonas-utv-polaris-canam</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-kenda-k585-bounty-hunter-27x11r12-radial-8-lonas-utv-polaris-canam</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-brx-brx03026-29x9-14-6-lonas-utv-polaris-canam</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-brx-brx03027-29x11-14-6-lonas-utv-polaris-canam</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-brx-brx03013-27x9-14-6-lonas-utv-polaris-canam</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-brx-brx03014-27x11-14-6-lonas-utv-polaris-canam</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-brx-brx03020-28x10-12-6-lonas-utv-polaris-canam</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-brx-brx03021-28x12-12-6-lonas-utv-polaris-canam</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-pneus-brx-29x9-14-e-29x11-14-6-lonas-utv-polaris-canam</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-pneus-brx-28x10-12-e-28x12-12-6-lonas-utv-polaris-canam</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/bateria-moura-honda-fourtrax-420-e-350-ma12-e</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/bateria-moura-ma14-e-para-polaris-sportsman-500-570-14ah-12v</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/patinete-eletrico-street-1600w-fun-motors</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/par-suportes-universal-tipo-x-para-tubular</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/barra-de-led-14cm-450-watts-para-iluminacao-interna-utv</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/barra-de-led-17cm-6-watts-para-iluminacao-interna-utv</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/corda-sintetica-hmpe-05mm-15-metros-com-gancho</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/farol-de-milha-neblina-72-watts-super-foco-6000k</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-quadriciclo-brx03000-16x8-7</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-brx-brx03011-24x10-11-6-lonas-traseiro-honda-fourtrax-420</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/guincho-eletrico-ekron-15500-hs-12v-off-road-troller-wrangler-jeep</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/guincho-eletrico-ekron-e6000-12v-off-road-suzuki-pickup</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-pneus-maxxis-m977-e-m978-honda-fourtrax-420</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-pneus-brx-27x9-14-e-27x11-14-6-lonas-utv-polaris-canam</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/oleo-motul-ps4-10w50-sintetico-polaris-quadriciclos-e-utvs-1-litro</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-at33-26x9r12-6-lonas-radial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-at33-26x11r12-6-lonas-radial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-brx-brx03018-18x7-8-6-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-brx-brx03019-18x95-8-6-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-bkt-at111-hd-21x7-10-6-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-pneus-bkt-w207-27x10-12-e-27x12-12-6-lonas-utv-polaris-canam</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-xc-plus-cross-country-22x7-10</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-pneus-arisun-at33-26x9r12-e-26x11r12-6-lonas-radial-polaris-canam</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-zuper-ace-22x7-10</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-bkt-w207-tl-22x7-10</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-aftershock-32x10r15-radial-8-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-pneus-kenda-k585-27x9-e-27x11r12-radial-8-lonas-utv-polaris-rzr-s-900</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-x-trail-23x10-14-carrinho-golfe-4-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-at12-24x11-10-6-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-pneus-arisun-mud-rebel-ar12-6-lonas-honda-fourtrax-420-25x8-12-25x10-11</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-at36-26x9r12-6-lonas-radial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-bkt-lg306-18x85-8-6-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-bkt-lg306-18x85-10-4-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-maxxis-roxxzilla-30x10r14-8-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-maxxis-m977-24x8-12-dianteiro-honda-fourtrax</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-maxxis-m978-24x10-11-traseiro-honda-fourtrax</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-pneus-maxxis-bighorn-honda-fourtrax-420-24x8-12-e-24x10-11</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-maxxis-bighorn-24x8-12-honda-fourtrax-420-dianteiro</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-maxxis-bighorn-24x10-11-honda-fourtrax-420-traseiro</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/oculos-trilha-gaia-mx-pro-blue-raze-com-lente-anti-embacante</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/oculos-trilha-gaia-mx-pro-carbon-pro-com-lente-anti-embacante</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-pneus-arisun-mud-rebel-ar12-6-lonas-honda-fourtrax-420-25x8-12-25x10-11-copia</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-at33-25x10r12-6-lonas-radial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-quadriciclo-bkt-145-70-6-2pr-sports-at109-tl</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-quadriciclo-bkt-22x1100-9-4pr-sorts-at108-tl</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-quadriciclo-bkt-20x700-8-4pr-sports-at108-e-tl</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-pneus-arisun-at33-25x8r12-e-25x10r12-6-lonas-radial-polaris-canam</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-tuff-mudder-ar12-6-lonas-honda-fourtrax-420-25x8-12</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-tuff-mudder-ar12-6-lonas-honda-fourtrax-420-25x10-11</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/galao-de-combustivel-seaflo-20-litros-com-bico-para-controle</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/galao-de-combustivel-seaflo-10-litros-com-bico-para-controle</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/galao-de-combustivel-seaflo-5-litros-com-bico-para-controle</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-pneus-kenda-k573-honda-fourtrax-420-25x8-12-e-25x10-11</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-bruiser-xt-27x9r12-radial-6-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-bruiser-xt-27x12r12-radial-6-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-arisun-at33-25x8r12-6-lonas-radial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/pneu-carrinho-golfe-bkt-gf305-classic-tel-205-50-10-4-lonas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-pneus-arisun-bruiser-xt-27x9r12-e-27x12r12-radial-6-lonas-polaris-rzr-900</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/suporte-para-galao-jerry-can-com-chave</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-rodas-sedona-spyder-12x7-4x110-honda-fourtrax-420-liga-leve</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-rodas-raceline-mamba-12x7-4x110-honda-fourtrax-420-liga-leve</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-rodas-sedona-spyder-12x7-4x156-polaris-sporstman-rzr-s900</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-rodas-sedona-split-6-beadlock-14x7-4x137-canam-offset-5-2</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://undefined/jogo-de-rodas-sedona-split-6-beadlock-14x7-4x156-polaris-offset-4-3</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://undefined/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -308,13 +1928,13 @@
     </url>
   
     <url>
-      <loc>https://undefined/pages/trocas</loc>
+      <loc>https://undefined/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://undefined/pages/termos</loc>
+      <loc>https://undefined/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
