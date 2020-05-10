@@ -1766,18 +1766,6 @@
     </url>
   
     <url>
-      <loc>https://undefined/terminal-de-direcao</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://undefined/capas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://undefined/barra-de-led</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1809,12 +1797,6 @@
   
     <url>
       <loc>https://undefined/patinete</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://undefined/oleo</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -1881,12 +1863,6 @@
   
     <url>
       <loc>https://undefined/mini-quadriciclo</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://undefined/mini-moto</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
