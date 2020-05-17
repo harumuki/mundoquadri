@@ -1544,7 +1544,7 @@
     </url>
   
     <url>
-      <loc>https://undefined/pneus-aro-8</loc>
+      <loc>https://undefined/pneus-aro-08</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -1598,7 +1598,7 @@
     </url>
   
     <url>
-      <loc>https://undefined/pneus-aro-9</loc>
+      <loc>https://undefined/pneus-aro-09</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -1814,7 +1814,7 @@
     </url>
   
     <url>
-      <loc>https://undefined/pneu-aro-7</loc>
+      <loc>https://undefined/pneus-aro-07</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -1898,13 +1898,13 @@
     </url>
   
     <url>
-      <loc>https://undefined/pneu-honda-fourtrax</loc>
+      <loc>https://undefined/pneus-honda-fourtrax</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://undefined/pneu-aro-6</loc>
+      <loc>https://undefined/pneus-aro-06</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -2132,13 +2132,13 @@
     </url>
   
     <url>
-      <loc>https://undefined/errors/500</loc>
+      <loc>https://undefined/errors/404</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://undefined/errors/404</loc>
+      <loc>https://undefined/errors/500</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
