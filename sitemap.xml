@@ -2126,6 +2126,12 @@
     </url>
   
     <url>
+      <loc>https://undefined/app/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
       <loc>https://undefined/errors/404</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2135,12 +2141,6 @@
       <loc>https://undefined/errors/500</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://undefined/app/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
     </url>
   
 </urlset>
